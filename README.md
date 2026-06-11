@@ -1,95 +1,268 @@
-# 💫 About Me:
-🔭 I’m currently working on AI/ML Engineering Projects<br>🤝 I’m looking for help with Agentic AI<br>🌱 I’m currently learning AGI<br>
+<div align="center">
 
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kishore%20Subramanian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/s-kishoreafk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skishoreafk@gmail.com) 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Multimodal+Deep+Learning+Architect+%F0%9F%A7%A0;Edge-Hub+ML+%26+Real-Time+Distributed+Apps+%E2%9A%A1;PyTorch+%7C+HuggingFace+%7C+Computer+Vision+%F0%9F%94%8D;Open+to+Collaborate+on+AI+Research+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
+<br/>
 
-# 🚀 Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
+<!-- Profile Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishoreafk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kishoreafk)
+[![GitHub](https://img.shields.io/badge/GitHub-kishoreafk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreafk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-skishoreafk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skishoreafk@gmail.com)
 
----
+<br/>
 
-## 🎨 Frontend Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=kishoreafk&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
----
-
-## 🛠️ Backend Development  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+</div>
 
 ---
 
-## 📱 Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+## 🧠 About Me
+
+```python
+class KishoreSubramanian:
+    def __init__(self):
+        self.name        = "Kishore Subramanian"
+        self.role        = "AI/ML Engineer & B.Tech CS Student"
+        self.university  = "SRM Institute of Science and Technology"
+        self.gpa         = "8.6 / 10.0"
+        self.batch       = "2023 – 2027"
+        self.location    = "India 🇮🇳"
+        self.focus       = [
+            "Generative AI",
+            "Deep Learning",
+            "Computer Vision",
+            "Multimodal Systems",
+            "Edge-Hub ML"
+        ]
+        self.currently   = "Building production-grade PyTorch models & scalable AI backends"
+
+    def contact(self):
+        return "skishoreafk@gmail.com"
+```
 
 ---
 
-## 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)   
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-00B4D8?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙️ Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🗄️ Tools & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-a78bfa?style=for-the-badge&logo=meta&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Zoho Catalyst](https://img.shields.io/badge/Zoho%20Catalyst-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+
+</div>
 
 ---
 
-## ☁️ DevOps & Cloud  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishoreafk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreafk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kishoreafk&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Kishore's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishoreafk&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
-## 🤖 AI / Data Science  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)  
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧬 Explainable Multimodal AI for ADHD
+[![Repo](https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-a78bfa?style=for-the-badge&logo=github)](https://github.com/kishoreafk)
+
+> **Stack:** `PyTorch` `React` `SHAP` `Mixture-of-Experts`
+
+| Feature | Details |
+|---|---|
+| 🧠 **Architecture** | Deep neural network interpreting raw patient diagnostic telemetry |
+| 📡 **Input Modalities** | Clinical tests, biometric arrays, 19-channel EEG waveforms |
+| ⚙️ **Core Algorithm** | Selective Mixture-of-Experts (MoE) with cross-attention gating |
+| 🔍 **Explainability** | SHAP-powered 3D DSM-5 logic boundary visualizations |
+| 🎯 **Goal** | Purge environmental distortion variance from multimodal signals |
 
 ---
 
-## 🔧 Tools & Others  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishoreafk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kishoreafk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreafk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚌 Dynamic Transport Logic Engine
+[![Repo](https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-a78bfa?style=for-the-badge&logo=github)](https://github.com/kishoreafk)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishoreafk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+> **Stack:** `FastAPI` `Flutter` `WebSockets` `OSRM`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kishoreafk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Feature | Details |
+|---|---|
+| 🔄 **Real-Time Tracking** | Asynchronous API hub with continuous WebSocket telemetry |
+| 📱 **Mobile Terminal** | Custom Flutter framework with live node calculation |
+| 🚦 **Traffic Simulation** | Custom disruption emulators inside OSRM environments |
+| 📶 **Offline Resilience** | Intelligent caching boundaries for unstable grid connectivity |
+| ⚡ **Performance** | Zero-latency adaptive routing with dynamic path overrides |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kishoreafk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌐 Distributed IoT Aggregator Model
+[![Repo](https://img.shields.io/badge/Source%20Code-View%20on%20GitHub-a78bfa?style=for-the-badge&logo=github)](https://github.com/kishoreafk)
+
+> **Stack:** `PyTorch` `FAISS` `Docker` `Vector DB`
+
+| Feature | Details |
+|---|---|
+| 🎥 **Vision Processing** | 30 FPS real-time camera inference pipeline |
+| 📦 **Deployment** | Dockerized microservices with zero-downtime model updates |
+| 🔀 **Routing** | Central hub with dynamic Mixture-of-Experts routing |
+| 📊 **Monitoring** | Data drift detection with automated retraining dashboards |
+| 🗄️ **Vector Search** | FAISS-powered high-speed similarity queries |
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🏛️  NIT Puducherry — Software Engineer Intern                  ║
+║  📅  Oct 2024 – Nov 2024                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ✅  Full-stack Faculty Management System (React + Node + MySQL) ║
+║  ✅  Reduced manual data entry by 40%                           ║
+║  ✅  JWT role-based access: 2-day → instant approvals           ║
+║  ✅  SQL stored procedures for 50+ faculty timetable conflicts   ║
+╚══════════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════════╗
+║  🌐  Infoem Solutions — Web Development Intern                  ║
+║  📅  May 2024 – Jun 2024                                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ✅  Migrated web apps to Flask + optimized routing             ║
+║  ✅  Improved load speeds by 30% via compression methods        ║
+║  ✅  Integrated Google Translator API for multilingual UI       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| 🥇 Achievement | 📋 Description |
+|---|---|
+| 🏢 **Zoho Hackathon** | Processed real-time analytical vectors from large-volume raw XML under intense network constraints to generate financial predictive indicators |
+| 🥉 **3rd Place — ArtGenAI** *(50+ participants)* | Forged resilient creative generative deployment solutions with scalable frontend layers, outperforming broad competitor margins |
+| 📡 **IEEE SRM** | Mapped complex internal string permutations identifying OS configurations; replaced graphical interface interactions with multi-stage text command patterns |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+```
+🏫  S.R.M Institute of Science and Technology, India
+📘  B.Tech in Computer Science and Engineering
+📅  Jul 2023 – Jun 2027
+📊  GPA: 8.6 / 10.0
+
+📚 Relevant Coursework:
+   • Data Structures & Algorithms
+   • Neural Networks
+   • Cloud Computing
+   • Database Management Systems
+   • Operating Systems
+```
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishoreafk/kishoreafk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishoreafk/kishoreafk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishoreafk/kishoreafk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kishoreafk)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skishoreafk@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreafk)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+> *"Building AI systems that don't just predict — they explain, adapt, and scale."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
