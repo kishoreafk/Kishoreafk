@@ -97,7 +97,6 @@
 <h3 align="center">🧠 AI / ML Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" alt="OpenCV" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117" alt="HuggingFace" />
@@ -107,7 +106,6 @@
 <h3 align="center">☁️ Backend & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" alt="Express" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" alt="Flask" />
   <img src="https://img.shields.io/badge/Zoho_Catalyst-EF4C18?style=for-the-badge&logo=zoho&logoColor=white&labelColor=0D1117" alt="Zoho Catalyst" />
@@ -117,12 +115,9 @@
 <!-- Frontend & Mobile -->
 <h3 align="center">🎨 Frontend & Mobile</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" alt="Next.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" alt="CSS3" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117" alt="Vite" />
 </p>
 <!-- Tools & Databases -->
 <h3 align="center">🛠️ Tools & Databases</h3>
@@ -136,62 +131,13 @@
 <!-- Animated Skill Icons Grid -->
 <h3 align="center">🎯 Skill Icons Gallery</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,nodejs,express,react,nextjs,html,css,flutter,vite,mysql,sqlite,docker,git,tensorflow,pytorch,opencv,fastapi,flask&perline=10&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,nodejs,html,css,flutter,vite,mysql,sqlite,docker,git,pytorch,opencv,fastapi,flask&perline=10&theme=dark" alt="Skill Icons" />
 </p>
 <!-- ====== WAVY DIVIDER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" width="100%" />
 </p>
-<!-- ====== EXPERIENCE SECTION ====== -->
-<h2 align="center">💼 Experience</h2>
-<!-- Experience Card 1 -->
-<h3 align="center">
-  <img src="https://img.icons8.com/color/48/microscope.png" width="24" alt="NIT" />
-  National Institute of Technology (NIT), Puducherry
-</h3>
-<p align="center">
-  <code>Software Engineer Intern</code> &nbsp;|&nbsp; 
-  <em>Oct 2024 – Nov 2024</em> &nbsp;|&nbsp; 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-</p>
-<table align="center" width="85%">
-  <tr>
-    <td>
-      <ul>
-        <li>Engineered a <strong>full-stack Faculty Management System</strong> using React, Node.js, and MySQL, digitizing legacy administrative workflows and <strong>reducing manual data entry by 40%</strong></li>
-        <li>Automated leave requests with <strong>JWT role-based access controls</strong>, cutting processing time from <strong>2 days to instant logic-based resolutions</strong></li>
-        <li>Designed <strong>SQL stored procedures & triggers</strong> for dynamic timetable conflict resolution across <strong>50+ faculty members</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<br/>
-<!-- Experience Card 2 -->
-<h3 align="center">
-  <img src="https://img.icons8.com/color/48/code.png" width="24" alt="Infoem" />
-  Infoem Solutions, Namakkal
-</h3>
-<p align="center">
-  <code>Web Development Intern</code> &nbsp;|&nbsp; 
-  <em>May 2024 – Jun 2024</em> &nbsp;|&nbsp; 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Google_Translate-4285F4?style=flat-square&logo=google-translate&logoColor=white" alt="Google Translate API" />
-</p>
-<table align="center" width="85%">
-  <tr>
-    <td>
-      <ul>
-        <li>Developed and migrated <strong>responsive web applications</strong> using Flask, HTML, and CSS with optimized routing and compression — <strong>improved load speeds by 30%</strong></li>
-        <li>Integrated <strong>Google Translator REST APIs</strong> for instant UI content translation, scaling platform accessibility for <strong>non-English regions</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 <!-- ====== WAVY DIVIDER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0" width="100%" />
