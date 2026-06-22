@@ -36,9 +36,6 @@ AI/ML Engineer and B.Tech Computer Science student specializing in Generative AI
   <a href="https://github.com/kishoreafk">
     <img src="https://img.shields.io/badge/GitHub-kishoreafk-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&logoWidth=20" />
   </a>
-  <a href="https://wa.me/919360422175">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B91%209360422175-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117&logoWidth=20" />
-  </a>
 </p>
 
 ## Education
